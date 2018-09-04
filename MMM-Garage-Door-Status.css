@@ -1,0 +1,15 @@
+.MMM-Garage-Door-Status {
+    font-size: 36px;
+}
+
+.MMM-Garage-Door-Status table {
+    padding-top: 34px;
+}
+
+.closed {
+    color: green;
+}
+
+.open {
+    color: red;
+}
